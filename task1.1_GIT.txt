@@ -1,0 +1,6 @@
+anatolnev-virtualbox task1.1]# git reflog
+bc44bb2 (HEAD -> develop, origin/styles, origin/image, origin/develop, styles, image) HEAD@{0}: checkout: moving from image to develop
+bc44bb2 (HEAD -> develop, origin/styles, origin/image, origin/develop, styles, image) HEAD@{1}: checkout: moving from develop to image
+bc44bb2 (HEAD -> develop, origin/styles, origin/image, origin/develop, styles, image) HEAD@{2}: checkout: moving from styles to develop
+bc44bb2 (HEAD -> develop, origin/styles, origin/image, origin/develop, styles, image) HEAD@{3}: commit: index
+100234f HEAD@{4}: commit (initial): styles
