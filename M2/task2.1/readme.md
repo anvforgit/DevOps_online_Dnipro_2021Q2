@@ -12,13 +12,13 @@
               SQL Server on Virtual Machines.
               Citrix Hypervisor
 
-                      2.
+                                   2.
                       Hypervisor, type1
 it runs as a control program directly on the hardware side of the computer. Virtual machine operating systems run higher
 Microsoft Hyper-V.VMware ESX Server.Citrix XenServer.
 Guest OS believe that they are working directly on the hardware platform, do not see the hypervisor
 
-Hypervisor, type2
+                         Hypervisor, type2
 it runs on the host operating system. Guest virtual machine operating systems are at a higher level
 VMware Workstation,Oracle VM VirtualBox, Microsoft Virtual PC, Parallels Desktop
 
