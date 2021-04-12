@@ -22,7 +22,7 @@
 ![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/6ca5d339d9263db75348b398706fc8fc86afc97b/M5/screenshots_task%205/task5.2_7.jpg)
 ![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/6ca5d339d9263db75348b398706fc8fc86afc97b/M5/screenshots_task%205/task5.2_8.jpg)
 ![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/6ca5d339d9263db75348b398706fc8fc86afc97b/M5/screenshots_task%205/task5.2_9.jpg)
-##What are the types of devices and how to determine the type of device? Give examples.
+## What are the types of devices and how to determine the type of device? Give examples.
  device types
 Before we chat about how devices are managed, let's actually take a look at some devices.
 
