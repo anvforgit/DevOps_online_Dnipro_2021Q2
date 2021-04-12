@@ -1,1 +1,12 @@
-![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/abda063706cb99458f51689cd3a2f5178dbe2ef0/M4/task4.1/screenshot%20task%204.1/Task%204.1.png)
+# Task 5.Part 1
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_1.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_2.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_3.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_4.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_5.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_6.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_7.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_8.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_9.jpg)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_10.jpg)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/448770922c1f025305709adf33385196d9208ca5/M5/screenshots_task%205/task5.1_11.jpg)
