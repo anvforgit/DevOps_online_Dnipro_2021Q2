@@ -1,0 +1,8 @@
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_1.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_2.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_3.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_4.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_5.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_6.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_7.png)
+![alt text](https://github.com/anvforgit/DevOps_online_Dnipro_2021Q2/blob/main/M7/screenshots/Task7.1_8.png)
